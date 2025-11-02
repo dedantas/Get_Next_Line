@@ -1,8 +1,5 @@
 Get Next Line
 
-https://img.shields.io/badge/42-School-blue
-https://img.shields.io/badge/Language-C-orange
-https://img.shields.io/badge/Grade-125%252F100-brightgreen
 📖 Descrição
 
 Get Next Line é um projeto da 42 que consiste em criar uma função em C que permite ler uma linha de um arquivo ou da entrada padrão (stdin) a cada chamada. O principal desafio é gerenciar eficientemente a leitura de arquivos, lidar com diferentes tamanhos de buffer e garantir que a memória seja adequadamente liberada.
